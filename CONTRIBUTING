@@ -1,0 +1,30 @@
+# Contribuindo para os Projetos
+
+Agradecemos o seu interesse em contribuir para os Projetos! Todos os tipos de contribuição são bem-vindos, desde correções de bugs até desenvolvimento de novas funcionalidades ou melhorias na documentação.
+
+## Configurando seu ambiente de desenvolvimento
+
+Antes de iniciar sua contribuição, é crucial configurar seu ambiente de desenvolvimento adequadamente. Para isso, siga o guia de configuração disponível no repositório `environment-configuration`. O link direto para o guia é:
+
+[Configuração de Ambiente](https://github.com/aise-inf/environment-configuration)
+
+Este guia contém todas as instruções necessárias para configurar o ambiente de desenvolvimento de forma que você possa trabalhar eficientemente nos projetos.
+
+## Processo de Contribuição
+
+1. **Fork do Repositório**: Faça um fork do projeto para o qual deseja contribuir. Isso criará uma cópia do repositório na sua conta do GitHub.
+2. **Clone do seu Fork**: Clone o repositório que você forkou para sua máquina local.
+3. **Crie uma Branch**: Para cada nova funcionalidade ou correção, crie uma nova branch baseada na `main`. Use um nome que descreva brevemente sua contribuição, como `feature/nova-funcionalidade` ou `fix/correcao-bug`.
+4. **Faça suas Alterações**: Implemente suas alterações ou melhorias no código.
+5. **Teste suas Alterações**: Certifique-se de testar suas alterações localmente. Se possível, adicione testes que cubram o novo código ou as correções realizadas.
+6. **Commit suas Alterações**: Faça commit das suas alterações com mensagens claras e concisas que expliquem o que foi modificado e por quê.
+7. **Push para o GitHub**: Faça push da sua branch para o seu fork no GitHub.
+8. **Abra um Pull Request**: No repositório original, abra um pull request da sua branch. Inclua uma descrição clara das mudanças e qualquer outra informação que ajude os revisores a entender o contexto.
+9. **Revisão de Código**: Aguarde o feedback dos revisores do projeto. Se necessário, faça as alterações solicitadas.
+10. **Merge**: Uma vez que seu pull request seja aprovado, um mantenedor do projeto fará merge de suas alterações para a branch principal.
+
+## Dúvidas?
+
+Se você tiver qualquer dúvida sobre o processo de contribuição, sinta-se à vontade para abrir uma issue no repositório ou entrar em contato através dos métodos disponíveis na seção de contato do README.
+
+Agradecemos sua contribuição e dedicação ao aprimoramento dos Projetos!
