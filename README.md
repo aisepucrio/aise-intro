@@ -12,7 +12,7 @@ Dentro deste repositório, você encontrará várias pastas, cada uma representa
 
 ### Exemplos de Pastas:
 - `aise-stonelab-intro`: Contém informações sobre o StoneLab, incluindo padrões de nomenclatura para projetos como o EvoMLearn.
-- `aise-dl4spl-intro`: Oferece uma introdução ao projeto de dl4spl
+- `aise-dl4spl-intro`: Oferece uma introdução ao projeto de deep learning for software product line.
 
 ## Utilização do Repositório
 
