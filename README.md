@@ -23,7 +23,7 @@ Cada pasta fornece os seguintes recursos:
 
 ## Contribuindo
 
-Estamos sempre em busca de colaboradores entusiasmados que desejam contribuir para o avanço da tecnologia e da ciência. Se você está interessado em participar de qualquer um dos nossos projetos, por favor, consulte os arquivos `CONTRIBUTING.md` específicos nas pastas dos sublaboratórios para mais detalhes sobre como você pode se envolver.
+Estamos sempre em busca de colaboradores entusiasmados que desejam contribuir para o avanço da tecnologia e da ciência. Se você está interessado em participar de qualquer um dos nossos projetos, por favor, consulte os arquivos `CONTRIBUTING.md` específicos nas pastas dos sublaboratórios para mais detalhes sobre como você pode contribuir.
 
 ## Contato
 
