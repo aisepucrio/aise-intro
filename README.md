@@ -17,7 +17,7 @@ Dentro deste repositório, você encontrará várias pastas, cada uma representa
 ## Utilização do Repositório
 
 Cada pasta fornece os seguintes recursos:
-- **Introdução:** Uma visão geral do sublaboratório e seus objetivos.
+- **Introdução:** Uma visão geral da linha de pesquisa, projetos e seus objetivos.
 - **Tutoriais:** Instruções passo a passo para começar com os projetos.
 - **Padrões de Nomenclatura:** Explicações detalhadas dos padrões usados para nomear repositórios e organizar recursos.
 
