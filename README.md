@@ -27,6 +27,6 @@ Estamos sempre em busca de colaboradores entusiasmados que desejam contribuir pa
 
 ## Contato
 
-Para mais informações, perguntas ou sugestões, sinta-se livre para entrar em contato através do email: aise@inf.puc-rio.br.
+Para mais informações, perguntas ou sugestões, entre em contato através do email: aise@aise.inf.puc-rio.br.
 
-Agradecemos seu interesse no AISE Lab e ansiamos pela sua participação em nossa jornada de inovação!
+Agradecemos seu interesse no AISE Lab e estamos entusiasmados com a sua participação em nossa jornada de inovação!
