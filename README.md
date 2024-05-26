@@ -4,7 +4,7 @@ Este repositório, `aise-intro`, serve como o portal inicial para todos aqueles 
 
 ## Sobre o AISE Lab
 
-O AISE Lab é um laboratório dedicado ao avanço da ciência e tecnologia através de uma variedade de projetos especializados, cada um focado em diferentes áreas da pesquisa e desenvolvimento tecnológico. Este repositório centraliza informações fundamentais para facilitar o acesso e a contribuição aos nossos projetos.
+O AISE Lab é um laboratório dedicado ao avanço da ciência e tecnologia nas áreas de Inteligência Artificial e Engenharia de Software, com uma variedade de projetos especializados, cada um focado em diferentes subáreas da pesquisa e desenvolvimento tecnológico. Este repositório centraliza informações fundamentais para facilitar o acesso e a contribuição aos nossos projetos.
 
 ## Estrutura do Repositório
 
