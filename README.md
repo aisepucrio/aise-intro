@@ -8,7 +8,7 @@ O AISE Lab é um laboratório dedicado ao avanço da ciência e tecnologia nas �
 
 ## Estrutura do Repositório
 
-Dentro deste repositório, você encontrará várias pastas, cada uma representando um sublaboratório específico dentro do AISE Lab. Cada pasta contém documentos introdutórios que explicam os projetos em andamento, além de detalhar os padrões de nomenclatura e estruturas usadas para cada sublaboratório.
+Dentro deste repositório, você encontrará várias pastas, cada uma representando uma linha de pesquisa dentro do AISE Lab. Cada pasta contém documentos introdutórios que explicam os projetos em andamento, além de detalhar os padrões de nomenclatura e estruturas usadas para cada projeto.
 
 ### Exemplos de Pastas:
 - `aise-stonelab-intro`: Contém informações sobre o StoneLab, incluindo padrões de nomenclatura para projetos como o EvoMLearn.
