@@ -44,15 +44,15 @@ A nomenclatura consiste em uma combinação do código da linha de pesquisa segu
 - **StoneLab**: `stnl`
 - **LLMs4SentimentAnalysis**: `llms4s`
 - **EyesOnSmells**: `EoS`
-- **AI4Law**: `AI4law`
+- **AI4Law**: `ai4law`
 - **ML4NFR**: `ml4nfr`
 - **ML4Smells**: `ml4smells`
 - **ML4SPL**: `ml4spl`
 - **DevProductivity**: `smp`
 - **SE4Finance**: `se4fin`
 - **SLR_ML4SPL**: `slr4spl`
-- **Diversity4SE**: `divSEng`
-- **AI4Health**: `AI4health`
+- **Diversity4SE**: `div4se`
+- **AI4Health**: `ai4health`
 
 ### Exemplos de Nomenclatura
 
